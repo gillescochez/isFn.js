@@ -1,0 +1,1 @@
+isFn=function(t,c){return (function(t,c){return function(o,b){return o.constructor==(b||c||window)[t];}})(t,c)}
